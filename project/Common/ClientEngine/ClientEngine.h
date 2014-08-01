@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #ifndef __CLIENT_ENGINE_H__
 #define __CLIENT_ENGINE_H__
 #include "DataBuffer\DataBuffer.h"

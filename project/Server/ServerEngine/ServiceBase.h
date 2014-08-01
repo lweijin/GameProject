@@ -1,4 +1,4 @@
-﻿#ifndef __SERVICE_BASE_H__
+#ifndef __SERVICE_BASE_H__
 #define __SERVICE_BASE_H__
 
 #include "GlobalConfig.h"

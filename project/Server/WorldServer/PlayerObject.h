@@ -1,4 +1,4 @@
-﻿#ifndef __WS_PLAYER_OBJECT_H__
+#ifndef __WS_PLAYER_OBJECT_H__
 #define __WS_PLAYER_OBJECT_H__
 #include "GameDefine.h"
 #include "Utility/AVLTree.h"

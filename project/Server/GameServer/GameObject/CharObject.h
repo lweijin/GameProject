@@ -1,4 +1,4 @@
-﻿#ifndef _CHAR_OBJECT_H_
+#ifndef _CHAR_OBJECT_H_
 #define _CHAR_OBJECT_H_
 #include "WorldObject.h"
 #include "GameDefine.h"

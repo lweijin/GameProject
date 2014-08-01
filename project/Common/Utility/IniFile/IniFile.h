@@ -1,4 +1,4 @@
-﻿#ifndef _INI_FILE_H_
+#ifndef _INI_FILE_H_
 #define _INI_FILE_H_
 
 class CIniFile

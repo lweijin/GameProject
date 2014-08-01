@@ -1,4 +1,4 @@
-﻿#ifndef __PACKET__HEADER_H__
+#ifndef __PACKET__HEADER_H__
 #define __PACKET__HEADER_H__
 
 #pragma  pack(push)

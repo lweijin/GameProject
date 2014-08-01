@@ -1,4 +1,4 @@
-﻿#ifndef __RANDOM_VALUE__
+#ifndef __RANDOM_VALUE__
 #define __RANDOM_VALUE__
 
 class CRandonValue

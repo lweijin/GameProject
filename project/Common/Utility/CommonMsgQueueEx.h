@@ -1,4 +1,4 @@
-﻿#ifndef __COMMON_MESSAGE_QUEUEEX_
+#ifndef __COMMON_MESSAGE_QUEUEEX_
 #define __COMMON_MESSAGE_QUEUEEX_
 #include "CritSecNotify.h"
 

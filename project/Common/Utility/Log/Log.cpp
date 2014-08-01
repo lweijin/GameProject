@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "./Log.h"
 #include "Utility/CommonFunc.h"
 

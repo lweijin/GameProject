@@ -1,4 +1,4 @@
-﻿#ifndef __CHAR_WILL_ENTER_LISTH__
+#ifndef __CHAR_WILL_ENTER_LISTH__
 #define __CHAR_WILL_ENTER_LISTH__
 #include "Utility/AVLTree.h"
 

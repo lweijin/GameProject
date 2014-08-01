@@ -1,4 +1,4 @@
-﻿#ifndef __CMD_CONNECTION_TYPE_H__
+#ifndef __CMD_CONNECTION_TYPE_H__
 #define __CMD_CONNECTION_TYPE_H__
 
 enum ConnectionType

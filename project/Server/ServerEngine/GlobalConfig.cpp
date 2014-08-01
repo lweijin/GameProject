@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "GlobalConfig.h"
 #include "Utility/CommonFunc.h"
 

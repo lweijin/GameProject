@@ -1,4 +1,4 @@
-﻿#ifndef __SERVER_PACKET__
+#ifndef __SERVER_PACKET__
 #define __SERVER_PACKET__
 
 #pragma  pack(push)

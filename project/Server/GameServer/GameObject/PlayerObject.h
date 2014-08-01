@@ -1,4 +1,4 @@
-﻿#ifndef _PLAYER_OBJECT_H_
+#ifndef _PLAYER_OBJECT_H_
 #define _PLAYER_OBJECT_H_
 #include "CharObject.h"
 

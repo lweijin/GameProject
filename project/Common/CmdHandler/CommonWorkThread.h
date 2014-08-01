@@ -1,4 +1,4 @@
-﻿#ifndef _COMMON_WORK_THREAD_H_
+#ifndef _COMMON_WORK_THREAD_H_
 #define _COMMON_WORK_THREAD_H_
 #include "Utility/CommonThreadFunc.h"
 #include "Utility/CommonMsgQueue.h"

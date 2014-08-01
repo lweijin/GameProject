@@ -1,4 +1,4 @@
-﻿#ifndef __COMMON_CONVERT__
+#ifndef __COMMON_CONVERT__
 #define __COMMON_CONVERT__
 
 namespace CommonConvert

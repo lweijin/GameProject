@@ -1,4 +1,4 @@
-﻿#ifndef __GAME_SVR_MGR_
+#ifndef __GAME_SVR_MGR_
 #define __GAME_SVR_MGR_
 
 #include "PacketDef/ServerPacket.h"

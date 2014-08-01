@@ -1,4 +1,4 @@
-﻿#ifndef __DB_PLAYER_OBJECT_H__
+#ifndef __DB_PLAYER_OBJECT_H__
 #define __DB_PLAYER_OBJECT_H__
 #include "GameDefine.h"
 #include "Utility/AVLTree.h"

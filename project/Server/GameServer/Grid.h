@@ -1,4 +1,4 @@
-﻿#ifndef __GRID_H__
+#ifndef __GRID_H__
 #define __GRID_H__
 
 #include "GameObject/WorldObject.h"

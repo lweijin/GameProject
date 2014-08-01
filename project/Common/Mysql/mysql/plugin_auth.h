@@ -1,4 +1,4 @@
-﻿#ifndef MYSQL_PLUGIN_AUTH_INCLUDED
+#ifndef MYSQL_PLUGIN_AUTH_INCLUDED
 /*
    Copyright (c) 2010, Oracle and/or its affiliates. All rights reserved.
 

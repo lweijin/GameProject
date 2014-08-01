@@ -1,4 +1,4 @@
-﻿#ifndef __CLIENT_PACKET__
+#ifndef __CLIENT_PACKET__
 #define __CLIENT_PACKET__
 
 #pragma  pack(push)

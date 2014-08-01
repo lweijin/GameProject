@@ -1,4 +1,4 @@
-﻿#ifndef _COMMON_CMD_HANDLER_H_
+#ifndef _COMMON_CMD_HANDLER_H_
 #define _COMMON_CMD_HANDLER_H_
 #include "CmdHandler/CommonWorkThread.h"
 #include "DataBuffer/DataBuffer.h"

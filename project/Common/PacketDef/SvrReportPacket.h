@@ -1,4 +1,4 @@
-﻿#ifndef __SERVER_REPORT_PACKET__
+#ifndef __SERVER_REPORT_PACKET__
 #define __SERVER_REPORT_PACKET__
 
 #pragma  pack(push)

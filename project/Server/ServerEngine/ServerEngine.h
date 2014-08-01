@@ -1,4 +1,4 @@
-﻿#ifndef _SERVER_ENGINE_H_
+#ifndef _SERVER_ENGINE_H_
 #define _SERVER_ENGINE_H_
 
 #include <map>

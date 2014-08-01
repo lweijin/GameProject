@@ -1,4 +1,4 @@
-﻿#ifndef __GAME_STRUCT_H__
+#ifndef __GAME_STRUCT_H__
 #define __GAME_STRUCT_H__
 
 //角色状态

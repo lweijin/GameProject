@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "DBAccountObject.h"
 #include "DataBuffer/BufferHelper.h"
 

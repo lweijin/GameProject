@@ -1,4 +1,4 @@
-﻿#ifndef __GRID_MANAGER_H__
+#ifndef __GRID_MANAGER_H__
 #define __GRID_MANAGER_H__
 #include "Grid.h"
 

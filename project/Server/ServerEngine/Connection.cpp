@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "Connection.h"
 #include "DataBuffer/DataBuffer.h"
 #include "PacketDef/ClientPacket.h"

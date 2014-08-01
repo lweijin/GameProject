@@ -1,4 +1,4 @@
-﻿#ifndef __OBJECT_ID_DEFINE_H__
+#ifndef __OBJECT_ID_DEFINE_H__
 #define __OBJECT_ID_DEFINE_H__
 
 //以下是对象类型

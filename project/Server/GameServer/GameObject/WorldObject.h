@@ -1,4 +1,4 @@
-﻿#ifndef _WORLD_OBJECT_H_
+#ifndef _WORLD_OBJECT_H_
 #define _WORLD_OBJECT_H_
 #include "Utility/Position.h"
 #include "Object.h"

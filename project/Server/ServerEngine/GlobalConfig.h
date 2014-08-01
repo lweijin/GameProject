@@ -1,4 +1,4 @@
-﻿#ifndef _GLOBAL_CONFIG_H_
+#ifndef _GLOBAL_CONFIG_H_
 #define _GLOBAL_CONFIG_H_
 
 #include "Utility/IniFile/IniFile.h"

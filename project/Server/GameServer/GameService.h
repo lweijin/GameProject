@@ -1,4 +1,4 @@
-﻿#ifndef _GAME_SERVICE_H_
+#ifndef _GAME_SERVICE_H_
 #define _GAME_SERVICE_H_
 #include "ServiceBase.h"
 #include "SceneManager.h"

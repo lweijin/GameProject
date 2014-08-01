@@ -1,4 +1,4 @@
-﻿#ifndef __COMMON_PACKET__
+#ifndef __COMMON_PACKET__
 #define __COMMON_PACKET__
 
 #pragma  pack(push)

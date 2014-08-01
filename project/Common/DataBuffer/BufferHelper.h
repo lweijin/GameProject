@@ -1,4 +1,4 @@
-﻿#ifndef _BUFFER_HELPER_H_
+#ifndef _BUFFER_HELPER_H_
 #define _BUFFER_HELPER_H_
 
 #include "PacketDef/PacketHeader.h"

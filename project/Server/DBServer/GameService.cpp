@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "ObjectID.h"
 #include "ConnectionType.h"
 #include "GameService.h"

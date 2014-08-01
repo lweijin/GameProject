@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #ifndef __COMMON_DATA_TYPE__
 #define __COMMON_DATA_TYPE__
 

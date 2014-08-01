@@ -1,4 +1,4 @@
-﻿#ifndef _LOGIN_CMD_HANDLER_H_
+#ifndef _LOGIN_CMD_HANDLER_H_
 #define _LOGIN_CMD_HANDLER_H_
 #include "CmdHandler/CommonCmdHandler.h"
 #include "PacketDef/ServerPacket.h"

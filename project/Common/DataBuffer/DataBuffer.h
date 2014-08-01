@@ -1,4 +1,4 @@
-﻿#ifndef _DATA_BUFFER_H_
+#ifndef _DATA_BUFFER_H_
 #define _DATA_BUFFER_H_
 #include "Utility/CritSec.h"
 #include "IBufferHandler.h"

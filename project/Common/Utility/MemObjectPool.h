@@ -1,4 +1,4 @@
-﻿#ifndef __OBJECT_POOL_H__
+#ifndef __OBJECT_POOL_H__
 #define __OBJECT_POOL_H__
 
 template<typename T>

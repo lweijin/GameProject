@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "ServiceBase.h"
 #include "NetManager.h"
 #include "DataBuffer/BufferHelper.h"

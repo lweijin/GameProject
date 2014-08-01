@@ -1,4 +1,4 @@
-﻿#ifndef __DB_PACKET__
+#ifndef __DB_PACKET__
 #define __DB_PACKET__
 #include "ClientPacket.h"
 

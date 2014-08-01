@@ -1,4 +1,4 @@
-﻿#ifndef __CMD_DEFINE_H__
+#ifndef __CMD_DEFINE_H__
 #define __CMD_DEFINE_H__
 
 enum CmdHandler_ID

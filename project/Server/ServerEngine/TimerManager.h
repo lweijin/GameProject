@@ -1,4 +1,4 @@
-﻿#ifndef _TIMER_MANAGER__
+#ifndef _TIMER_MANAGER__
 #define _TIMER_MANAGER__
 
 #define ID_BLOOD  1

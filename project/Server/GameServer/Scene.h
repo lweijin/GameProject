@@ -1,4 +1,4 @@
-﻿#ifndef _SCENE_H_
+#ifndef _SCENE_H_
 #define _SCENE_H_
 #include "CmdHandler/CommonWorkThread.h"
 #include "GameObject/Playerobject.h"

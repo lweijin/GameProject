@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "CommonWorkThread.h"
 #include "CommandDef.h"
 #include "Utility/Log/Log.h"

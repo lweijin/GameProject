@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #ifndef __COMMON_ERROR_DEFINE__
 #define __COMMON_ERROR_DEFINE__
 

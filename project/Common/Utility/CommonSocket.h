@@ -1,4 +1,4 @@
-﻿#ifndef __COMMON_SOCKET__
+#ifndef __COMMON_SOCKET__
 #define __COMMON_SOCKET__
 
 #define SOCKET_ERROR 		(-1)

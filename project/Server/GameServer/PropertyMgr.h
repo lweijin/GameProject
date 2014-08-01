@@ -1,4 +1,4 @@
-﻿#ifndef __BATTLE_PROPERTY_MGR_H__
+#ifndef __BATTLE_PROPERTY_MGR_H__
 #define __BATTLE_PROPERTY_MGR_H__
 
 #define MAX_PROPERTY_NUM 64

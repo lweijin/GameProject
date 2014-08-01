@@ -1,4 +1,4 @@
-﻿#include "StdAfx.h"
+#include "StdAfx.h"
 #include "ClientEngine.h"
 #include "CommandDef.h"
 #include "DataBuffer\BufferHelper.h"

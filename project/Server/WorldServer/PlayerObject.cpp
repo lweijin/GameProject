@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include "PlayerObject.h"
 #include "DataBuffer/BufferHelper.h"
 

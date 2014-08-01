@@ -1,4 +1,4 @@
-﻿#ifndef __CLIENT_OBJECT_MGR_H__
+#ifndef __CLIENT_OBJECT_MGR_H__
 #define __CLIENT_OBJECT_MGR_H__
 #include "Utility/AVLTree.h"
 

@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
 #include <errmsg.h>
 #include "DBConnection.h"
 #include "DBStoredProc.h"

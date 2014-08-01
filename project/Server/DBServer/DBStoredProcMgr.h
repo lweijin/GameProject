@@ -1,4 +1,4 @@
-﻿#ifndef __DB_STORED＿PROCEDURE__
+#ifndef __DB_STORED＿PROCEDURE__
 #define __DB_STORED＿PROCEDURE__
 
 #include "DBStoredProc.h"

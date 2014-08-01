@@ -1,4 +1,4 @@
-﻿#ifndef __COMMON_THREAD_FUNC__
+#ifndef __COMMON_THREAD_FUNC__
 #define __COMMON_THREAD_FUNC__
 
 #ifndef WIN32

@@ -1,4 +1,4 @@
-﻿#ifndef __IBUFFER_HANDLER_H__
+#ifndef __IBUFFER_HANDLER_H__
 #define __IBUFFER_HANDLER_H__
 class CConnection;
 class CBufferHelper;

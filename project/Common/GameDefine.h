@@ -1,4 +1,4 @@
-﻿#ifndef __COMMON_DEFINE_H__
+#ifndef __COMMON_DEFINE_H__
 #define __COMMON_DEFINE_H__
 
 #define MAX_PATH_LEN	  	        (260)

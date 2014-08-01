@@ -1,4 +1,4 @@
-﻿
+
 #ifndef __CCRITSECT_NOTIFY__
 #define __CCRITSECT_NOTIFY__
 

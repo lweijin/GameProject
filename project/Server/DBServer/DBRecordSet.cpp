@@ -1,4 +1,4 @@
-﻿/*
+/*
 **  copyright (c) 2012 - all rights reserved.
 **
 **  proj:   mysql

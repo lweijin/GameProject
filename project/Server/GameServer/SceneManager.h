@@ -1,4 +1,4 @@
-﻿#ifndef _SCENE_MANAGER_H_
+#ifndef _SCENE_MANAGER_H_
 #define _SCENE_MANAGER_H_
 #include "Scene.h"
 #include "CmdHandler/CommonCmdHandler.h"
